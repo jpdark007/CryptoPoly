@@ -24,7 +24,7 @@ https://www.thingiverse.com/thing:2850893
 https://www.thingiverse.com/thing:2850958
 
 ## Rules:
-The rules to CryptoPoly are identical to the classic game of [Monopoly](https://www.hasbro.com/common/instruct/monins.pdf). However in CryptoPoly rent is now a network fee and "JAIL" is now "HODL".
+The rules to CryptoPoly are identical to the classic game of [Monopoly](https://www.hasbro.com/common/instruct/monins.pdf). However in CryptoPoly rent is now a network fee and "JAIL" is now ["HODL"](https://en.wikipedia.org/wiki/Hodl).
 
 ## Cards:
 See the repository for the complete list of cards. Examples:
