@@ -13,12 +13,12 @@ CryptoPoly is the cryptocurrency trading game where the aim is to drive everyone
 Download all the files in this repository. Print out the board and cards. If you have an existing monopoly set use the same money and the houses and hotels as mining rigs and farms. If you don't have a monopoly set, you can find money to print [here](http://www.zieak.com/2008/08/19/print-your-own-monopoly-money/) and for the totems, rigs and farms just print it :
 
 ### 3d printable pieces
-#### factory piece
+#### Gpu piece
 <p align="center"> 
 <img src="https://cdn.thingiverse.com/renders/88/51/26/6c/9b/e8d8868229fdb3e20808dc22a0985e4b_preview_featured.jpg" height="50%" width="50%"></p>
 https://www.thingiverse.com/thing:2850893
 
-#### Gpu piece
+#### Mining farm (factory) piece
 <p align="center"> 
 <img src="https://cdn.thingiverse.com/renders/96/6c/7e/99/ed/7c922798714ccd55a0e5404bd79ba298_preview_featured.jpg" height="50%" width="50%"></p>
 https://www.thingiverse.com/thing:2850958
