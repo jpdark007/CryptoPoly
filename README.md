@@ -15,16 +15,16 @@ Download all the files in this repository. Print out the board and cards. If you
 ### 3d printable pieces
 #### Gpu piece
 <p align="center"> 
-<img src="https://cdn.thingiverse.com/renders/88/51/26/6c/9b/e8d8868229fdb3e20808dc22a0985e4b_preview_featured.jpg" height="50%" width="50%"></p>
+<img src="https://cdn.thingiverse.com/renders/88/51/26/6c/9b/e8d8868229fdb3e20808dc22a0985e4b_preview_featured.jpg" height="30%" width="30%"></p>
 https://www.thingiverse.com/thing:2850893
 
 #### Mining farm (factory) piece
 <p align="center"> 
-<img src="https://cdn.thingiverse.com/renders/96/6c/7e/99/ed/7c922798714ccd55a0e5404bd79ba298_preview_featured.jpg" height="50%" width="50%"></p>
+<img src="https://cdn.thingiverse.com/renders/96/6c/7e/99/ed/7c922798714ccd55a0e5404bd79ba298_preview_featured.jpg" height="30%" width="30%"></p>
 https://www.thingiverse.com/thing:2850958
 
 ## Rules:
-The rules to CryptoPoly are identical to the classic game of [Monopoly](https://www.hasbro.com/common/instruct/monins.pdf). However in CryptoPoly rent is now a network fee and "JAIL" is now "HODL".
+The rules to CryptoPoly are identical to the classic game of [Monopoly](https://www.hasbro.com/common/instruct/monins.pdf). However in CryptoPoly rent is now a network fee and "JAIL" is now ["HODL"](https://en.wikipedia.org/wiki/Hodl).
 
 ## Cards:
 See the repository for the complete list of cards. Examples:
